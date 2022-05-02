@@ -1,0 +1,6 @@
+module Pods_AppNew {
+  umbrella header "Pods-AppNew-umbrella.h"
+
+  export *
+  module * { export * }
+}
