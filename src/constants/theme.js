@@ -13,7 +13,7 @@ const defaultColors = {
     // '900': '#1A202C',
 };
 const darkColors = {
-    primary: '#F6AD55',
+    primary: '#ffae6b',
     black: defaultColors.white,
     white: defaultColors.black,
     // '100': defaultColors[900],
